@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/home/onio/work/stuff/vim-pathogen/autoload'
 let g:netrw_dirhist_2='/home/onio/.vim'
 let g:netrw_dirhist_3='/home/onio'
+let g:netrw_dirhist_4='/home/onio/work/media-butler'
+let g:netrw_dirhist_5='/home/onio/work/media-butler/src'
+let g:netrw_dirhist_6='/home/onio/work/media-butler/src/media_butler'
