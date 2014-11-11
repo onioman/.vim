@@ -13,3 +13,9 @@
 [submodule "bundle/lein-vim"]
 	path = bundle/lein-vim
 	url = git://github.com/liquidz/lein-vim.git
+[submodule "vim-rubytest"]
+	path = vim-rubytest
+	url = git@github.com:janx/vim-rubytest.git
+[submodule "/home/onio/.vim/bundle/Vundle.vim"]
+	path = /home/onio/.vim/bundle/Vundle.vim
+	url = https://github.com/gmarik/Vundle.vim.git
