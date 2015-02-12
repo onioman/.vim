@@ -1,8 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/onio/work/scratch/proguard_logs'
 let g:netrw_dirhist_2='/home/onio/work/armario/lib'
 let g:netrw_dirhist_3='/home/onio/work/armario/lib/armeabi-v7a'
 let g:netrw_dirhist_4='/home/onio/work/armario/src/main/res/layout'
 let g:netrw_dirhist_5='/home/onio/work/armario/src/main/res'
 let g:netrw_dirhist_6='/home/onio/work/armario/src/main'
+let g:netrw_dirhist_7='/home/onio/work/cplus/btree'
+let g:netrw_dirhist_8='/home/onio/work/syashin/gallery/templates'
+let g:netrw_dirhist_9='/home/onio/Coursera/MachineLearning/mlclass-ex1-008/mlclass-ex1'
